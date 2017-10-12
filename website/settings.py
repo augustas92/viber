@@ -9,7 +9,7 @@ SECRET_KEY = 'rha7*we-io_dbhnf$k)%wum_i=-fct9+n^j+@5j9p*$z01lzj1'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['augustas92.pythonanywhere.com']
+ALLOWED_HOSTS = ['augustas92.pythonanywhere.com, 'augustas92.pythonanywhere.com/admin']
 
 # Application definition
 
